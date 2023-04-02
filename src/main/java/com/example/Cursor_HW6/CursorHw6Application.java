@@ -1,5 +1,7 @@
 package com.example.Cursor_HW6;
 
+import com.example.Cursor_HW6.models.User;
+import com.example.Cursor_HW6.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

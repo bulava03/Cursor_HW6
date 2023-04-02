@@ -1,4 +1,4 @@
-package com.example.Cursor_HW6;
+package com.example.Cursor_HW6.models;
 
 
 import jakarta.persistence.*;

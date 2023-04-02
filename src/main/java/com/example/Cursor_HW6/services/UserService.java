@@ -1,4 +1,6 @@
-package com.example.Cursor_HW6;
+package com.example.Cursor_HW6.services;
+
+import com.example.Cursor_HW6.models.User;
 
 import java.util.List;
 

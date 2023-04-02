@@ -1,5 +1,6 @@
-package com.example.Cursor_HW6;
+package com.example.Cursor_HW6.services;
 
+import com.example.Cursor_HW6.models.User;
 import jakarta.persistence.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
